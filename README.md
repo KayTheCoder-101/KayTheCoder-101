@@ -115,12 +115,6 @@ Multi-class facial recognition system classifying 16 public figures on 1,280+ im
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=KayTheCoder-101&hide_border=true" alt="GitHub streak" height="165"/>
-
-</div>
 <div align="center">
 
 **Open to entry-level roles in AI/ML Engineering · Data Engineering · Data Science**
