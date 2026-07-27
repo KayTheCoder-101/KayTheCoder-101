@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Um E Kulsoom 👋
 
-<!--
-**KayTheCoder-101/KayTheCoder-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BS Artificial Intelligence student building **end-to-end ML and data pipelines** — not just notebooks. I work across the full lifecycle: ingestion, training, experiment tracking, and deployment.
 
-Here are some ideas to get you started:
+- 🔭 Currently building real-time data systems with **Kafka, Spark, and Airflow**
+- 🧠 Focused on **MLOps** — DVC, MLflow, Docker, CI/CD, cloud deployment (AWS)
+- 🎓 BS AI @ FAST-NUCES · AWS Cloud Practitioner (DataCamp) · Associate Data Scientist in Python (DataCamp)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/um-e-kulsoom) · kulsoomume362@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured work:**
+- 🔴 [Real-Time Streaming Data Pipeline](https://github.com/KayTheCoder-101/Real-Time-Streaming-Data-Pipeline) — Kafka → Spark Structured Streaming → MinIO → Superset, orchestrated with Airflow
+- 🟢 [Log Analysis Dashboard with Anomaly Detection](https://github.com/KayTheCoder-101/log-anomaly-dashboard) — FastAPI + PostgreSQL + Isolation Forest, real-time Streamlit UI
+
+**Tech I work with:**
+
+`Python` `PySpark` `Kafka` `Airflow` `Docker` `AWS` `MLflow` `DVC` `FastAPI` `PostgreSQL` `scikit-learn` `SQL`
+
+---
