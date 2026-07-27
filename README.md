@@ -119,13 +119,10 @@ Multi-class facial recognition system classifying 16 public figures on 1,280+ im
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KayTheCoder-101&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KayTheCoder-101&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=KayTheCoder-101&show_icons=true&hide_border=true" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=KayTheCoder-101&hide_border=true" alt="GitHub streak" height="165"/>
 
 </div>
-
-<br>
-
 <div align="center">
 
 **Open to entry-level roles in AI/ML Engineering · Data Engineering · Data Science**
